@@ -2,15 +2,15 @@
 #include <stdio.h>
 #include <stdbool.h>
 
-void rechdicho() {
-	int debut, fin, val, mil,nb;
-	int tab[nb];
+void rechdicho(int* timer, int* pouls, 	int ligne) {
+	int debut, fin, val, mil;
+	int tab[ligne];
 	bool trouve;
 
 	debut = 0;
-	fin = nb;
+	fin = ligne;
 	trouve = false;
-	printf("entrez la valeur à chercher.\n");
+	printf("entrez la valeur Ã  chercher.\n");
 	scanf_s("%i", &val);
 
 	while (trouve != true && debut <= fin) {
