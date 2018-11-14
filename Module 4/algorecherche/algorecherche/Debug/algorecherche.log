@@ -1,0 +1,4 @@
+﻿  algorecherche.c
+d:\github\projet-fondamentaux-scientifiques\module 4\algorecherche\algorecherche\algorecherche.c(7): error C2057: expression constante attendue
+d:\github\projet-fondamentaux-scientifiques\module 4\algorecherche\algorecherche\algorecherche.c(7): error C2466: impossible d'allouer un tableau de taille constante 0
+d:\github\projet-fondamentaux-scientifiques\module 4\algorecherche\algorecherche\algorecherche.c(7): error C2133: 'tab' : taille inconnue
