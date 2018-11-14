@@ -1,3 +1,4 @@
+/* prototype des fonctions*/
 int pouls_alea();
-float timer();
+long timer();
 void RenvoiCSV(float timestamp, float pouls);

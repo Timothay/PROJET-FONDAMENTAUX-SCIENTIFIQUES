@@ -5,7 +5,7 @@ int pouls_alea() {
 }
 
 //Fonction affichant le temps passé depuis le démarrage de l'Arduino
-float timer() {
+long timer() {
 // On utilise uint32_t pour assurer suffisamment d'espace mémoire
   uint32_t temps = micros() / 1000;
 // micros est une fonction permettant de renvoyer le temps en millisecondes 
@@ -13,7 +13,7 @@ float timer() {
 }
 
 //Fonction permettant d'accéder au csv comportant les valeurs (et l'afficher)
-void RenvoiCSV(float timestamp, float pouls) {
+void RenvoiCSV(long timestamp, int pouls) {
   Serial.print(timestamp);
   Serial.print(";");
   Serial.println(pouls);
