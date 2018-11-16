@@ -1,1 +1,1 @@
-#define MODE 7
+#define MODE 5
