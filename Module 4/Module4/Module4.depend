@@ -1,0 +1,30 @@
+# depslib dependency file v1.0
+1542357942 source:c:\users\sazu - chan\desktop\module 4 - complete\actions.c
+	<stdlib.h>
+	<stdio.h>
+	<stdbool.h>
+
+1542361108 source:c:\users\sazu - chan\desktop\module 4 - complete\donnees.c
+	<stdlib.h>
+	<stdio.h>
+	<stdbool.h>
+	"actions.h"
+
+1542361061 c:\users\sazu - chan\desktop\module 4 - complete\actions.h
+
+1542361101 source:c:\users\sazu - chan\desktop\module 4 - complete\main.c
+	<stdlib.h>
+	<stdio.h>
+	<stdbool.h>
+	"menu.h"
+
+1542284748 c:\users\sazu - chan\desktop\module 4 - complete\menu.h
+
+1542361280 source:c:\users\sazu - chan\desktop\module 4 - complete\menu.c
+	<stdlib.h>
+	<stdio.h>
+	<stdbool.h>
+	"donnees.h"
+
+1542284545 c:\users\sazu - chan\desktop\module 4 - complete\donnees.h
+
