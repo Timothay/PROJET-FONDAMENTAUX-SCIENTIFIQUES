@@ -28,3 +28,32 @@
 
 1542284545 c:\users\sazu - chan\desktop\module 4 - complete\donnees.h
 
+1542300182 source:d:\github\projet-fondamentaux-scientifiques\module 4\module 4 - complete\actions.c
+	<stdlib.h>
+	<stdio.h>
+	<stdbool.h>
+
+1542361471 source:d:\github\projet-fondamentaux-scientifiques\module 4\module 4 - complete\donnees.c
+	<stdlib.h>
+	<stdio.h>
+	<stdbool.h>
+	"actions.h"
+
+1542361471 d:\github\projet-fondamentaux-scientifiques\module 4\module 4 - complete\actions.h
+
+1542300182 source:d:\github\projet-fondamentaux-scientifiques\module 4\module 4 - complete\main.c
+	<stdlib.h>
+	<stdio.h>
+	<stdbool.h>
+	"menu.h"
+
+1542300182 d:\github\projet-fondamentaux-scientifiques\module 4\module 4 - complete\menu.h
+
+1542300182 source:d:\github\projet-fondamentaux-scientifiques\module 4\module 4 - complete\menu.c
+	<stdlib.h>
+	<stdio.h>
+	<stdbool.h>
+	"donnees.h"
+
+1542300182 d:\github\projet-fondamentaux-scientifiques\module 4\module 4 - complete\donnees.h
+
